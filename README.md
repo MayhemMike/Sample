@@ -1,3 +1,5 @@
+<img src="https://github.com/mrabenhaupt/Match3/blob/master/match3.jpg">
+
 My solution for a recent programing assignment. The task was to make a simple Match-3 game in Unity.
 
 The game mechanics are as follows:
